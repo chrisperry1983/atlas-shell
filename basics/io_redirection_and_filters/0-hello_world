@@ -1,2 +1,2 @@
- #!/bin/bash 
-touch 0-hello_world.hs |echo "Hello, World" | tr -d '\n' | chmod =x 0-hello_world
+ #!/bin/bash
+echo -e "Hello, World \\n"
