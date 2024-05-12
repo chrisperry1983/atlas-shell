@@ -1,2 +1,2 @@
 #!/bin/bash
-./iacta test txt 3
+head -n 3p ./iacta
