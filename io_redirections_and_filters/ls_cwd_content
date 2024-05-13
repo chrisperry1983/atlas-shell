@@ -1,2 +1,3 @@
 -u (ls -la)
 -u (ls -la)
+-u '(ls -la)'
